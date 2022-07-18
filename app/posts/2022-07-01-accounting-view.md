@@ -1,17 +1,7 @@
 ---
 title: Accounting view
-description: This example was generated using a script and shows how to automatically include a list of screenshots at the end of your post.
-date: 2022-06-13
-screenshots:
-  items:
-    - text: Design history index
-      src: 01-design-history-index.png
-      caption: |
-        You can include captions with each image, and each caption can include markdown. This is a screenshot of the [index page](/).
-    - text: Search results
-      src: 02-search-results.png
-    - text: A design history post
-      src: 03-a-design-history-post.png
+description: Iterations of the Accounting View, also known as Payment History
+date: 2022-07-01
 ---
 
 
