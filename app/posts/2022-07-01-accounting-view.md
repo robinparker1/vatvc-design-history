@@ -12,6 +12,6 @@ We designed a view that used the accordion component to separate payments in rel
 
 
 
-![alt text](/payment-history-4-0.png "Before")
+![alt text](/payment-history/payment-history-4-0.png "Before")
 
-![alt text](/payment-history-4-5.png "After")
+![alt text](/payment-history/payment-history-4-5.png "After")
