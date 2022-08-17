@@ -17,7 +17,7 @@
     "test": "standard"
   },
   "dependencies": {
-    "@11ty/eleventy": "^1.0.1",
+    "@11ty/eleventy": "^1.0.2",
     "govuk-eleventy-plugin": "^2.5.0",
     "http-server": "^14.1.1",
     "latest-version": "^7.0.0",
